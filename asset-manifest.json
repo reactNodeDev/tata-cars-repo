@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tata-cars-repo/static/css/main.af09bec6.css",
+    "main.js": "/tata-cars-repo/static/js/main.0b206d52.js",
+    "static/js/787.8353712f.chunk.js": "/tata-cars-repo/static/js/787.8353712f.chunk.js",
+    "index.html": "/tata-cars-repo/index.html",
+    "main.af09bec6.css.map": "/tata-cars-repo/static/css/main.af09bec6.css.map",
+    "main.0b206d52.js.map": "/tata-cars-repo/static/js/main.0b206d52.js.map",
+    "787.8353712f.chunk.js.map": "/tata-cars-repo/static/js/787.8353712f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af09bec6.css",
+    "static/js/main.0b206d52.js"
+  ]
+}
